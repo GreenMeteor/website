@@ -1,0 +1,51 @@
+{
+    "nav": {
+        "section_main": "メイン",
+        "home": "ホーム",
+        "browse_modules": "モジュールを見る",
+        "my_purchases": "購入履歴",
+        "section_account": "アカウント",
+        "settings": "設定",
+        "section_resources": "リソース",
+        "faq": "よくある質問",
+        "about": "概要",
+        "showcase": "ショーケース",
+        "screenshots": "スクリーンショット",
+        "section_support": "サポート",
+        "services": "サービス",
+        "contact": "お問い合わせ"
+    },
+    "header": {
+        "account_settings": "アカウント設定",
+        "partner_status": "パートナーステータス",
+        "developer_portal": "開発者ポータル",
+        "analytics": "分析",
+        "my_purchases": "購入履歴",
+        "logout": "ログアウト"
+    },
+    "donation": {
+        "text": "Green Meteorの運営にご協力ください！あなたのサポートが、無料のHumHubモジュール提供の継続を可能にします。",
+        "stripe": "Stripeで寄付",
+        "paypal": "PayPalで寄付",
+        "github": "GitHubでスポンサーになる"
+    },
+    "hero": {
+        "title": "HumHubモジュールマーケットプレイス",
+        "subtitle": "HumHubコミュニティを強化するプレミアムモジュールを発見しましょう。世界中のコミュニティに信頼されています。",
+        "cta": "モジュールを見る"
+    },
+    "footer": {
+        "made_with": "制作:",
+        "by": "Green Meteor",
+        "terms": "利用規約",
+        "privacy": "プライバシーポリシー"
+    },
+    "bazaar": {
+        "title": "Bazaarマーケットプレイスモジュール",
+        "badge": "おすすめ",
+        "desc": "HumHubネットワークにBazaarをインストールすると、管理パネルから直接Green Meteorのモジュールを閲覧・インストール・更新できます。手動でのダウンロードは不要です。",
+        "note": "他の言語を話せますか？Bazaarの翻訳にご協力いただき、世界中のユーザーが利用できるようにしましょう。",
+        "get_free": "無料でBazaarを入手",
+        "help_translate": "翻訳に協力する"
+    }
+}

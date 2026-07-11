@@ -1,0 +1,52 @@
+{
+    "announcements": {
+        "heading": "Latest Announcements",
+        "subtitle": "Updates, releases, and news from the Green Meteor team",
+        "read_more": "Read more"
+    },
+    "stats": {
+        "heading": "Green Meteor by the Numbers",
+        "subtitle": "Trusted by HumHub communities around the world",
+        "modules": "Modules Available",
+        "users": "Registered Users",
+        "downloads": "Modules Downloaded",
+        "posts": "Community Posts"
+    },
+    "featured": {
+        "heading": "Featured Modules",
+        "subtitle": "Hand-picked extensions to power your HumHub community",
+        "browse_all": "Browse all modules",
+        "badge_purchased": "Purchased",
+        "badge_subscribed": "Subscribed",
+        "badge_in_cart": "In Cart",
+        "badge_free": "Free",
+        "badge_lifetime": "Lifetime",
+        "badge_monthly": "Monthly",
+        "badge_yearly": "Yearly",
+        "badge_weekly": "Weekly",
+        "badge_daily": "Daily",
+        "badge_subscription": "Subscription",
+        "price_free": "Free",
+        "price_lifetime": "Lifetime",
+        "btn_download": "Download",
+        "btn_in_cart": "In Cart",
+        "btn_subscribe": "Subscribe",
+        "btn_buy_now": "Buy Now"
+    },
+    "cta": {
+        "eyebrow": "Professional Services",
+        "title": "Need something built for your community?",
+        "body": "From bespoke module development to full platform setup and configuration — our team scopes, builds, and delivers to your exact requirements.",
+        "get_quote": "Get a Quote",
+        "view_services": "View All Services",
+        "become_partner": "Become a Partner",
+        "service1_title": "Custom Module Development",
+        "service1_desc": "Tailored HumHub modules built with PHP, Yii2, and HumHub-native conventions — from concept to deployment.",
+        "service2_title": "Installation & Configuration",
+        "service2_desc": "Expert setup, database optimisation, security hardening, and ongoing maintenance for your HumHub platform.",
+        "feature1": "HumHub-native conventions",
+        "feature2": "PSR-12 clean PHP",
+        "feature3": "Post-delivery support",
+        "feature4": "Fixed-scope pricing"
+    }
+}

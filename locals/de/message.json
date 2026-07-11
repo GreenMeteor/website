@@ -1,0 +1,51 @@
+{
+    "nav": {
+        "section_main": "Hauptmenü",
+        "home": "Startseite",
+        "browse_modules": "Module durchsuchen",
+        "my_purchases": "Meine Käufe",
+        "section_account": "Konto",
+        "settings": "Einstellungen",
+        "section_resources": "Ressourcen",
+        "faq": "FAQ",
+        "about": "Über uns",
+        "showcase": "Showcase",
+        "screenshots": "Screenshots",
+        "section_support": "Support",
+        "services": "Dienstleistungen",
+        "contact": "Kontakt"
+    },
+    "header": {
+        "account_settings": "Kontoeinstellungen",
+        "partner_status": "Partnerstatus",
+        "developer_portal": "Entwicklerportal",
+        "analytics": "Statistiken",
+        "my_purchases": "Meine Käufe",
+        "logout": "Abmelden"
+    },
+    "donation": {
+        "text": "Hilf mit, Green Meteor am Laufen zu halten! Deine Unterstützung ermöglicht es uns, weiterhin kostenlose HumHub-Module anzubieten.",
+        "stripe": "Über Stripe spenden",
+        "paypal": "Über PayPal spenden",
+        "github": "Auf GitHub sponsern"
+    },
+    "hero": {
+        "title": "HumHub-Modul-Marktplatz",
+        "subtitle": "Entdecke Premium-Module für deine HumHub-Community. Vertraut von Communities weltweit.",
+        "cta": "Module durchsuchen"
+    },
+    "footer": {
+        "made_with": "Gemacht mit",
+        "by": "von Green Meteor",
+        "terms": "Nutzungsbedingungen",
+        "privacy": "Datenschutzrichtlinie"
+    },
+    "bazaar": {
+        "title": "Bazaar-Marktplatzmodul",
+        "badge": "Empfohlen",
+        "desc": "Installiere Bazaar in deinem HumHub-Netzwerk, um Green-Meteor-Module direkt über dein Admin-Panel zu durchsuchen, zu installieren und zu aktualisieren — kein manueller Download nötig.",
+        "note": "Sprichst du eine andere Sprache? Hilf mit, Bazaar zu übersetzen und für Nutzer weltweit zugänglich zu machen.",
+        "get_free": "Bazaar kostenlos holen",
+        "help_translate": "Beim Übersetzen helfen"
+    }
+}

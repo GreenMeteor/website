@@ -1,0 +1,51 @@
+{
+    "nav": {
+        "section_main": "Main",
+        "home": "Home",
+        "browse_modules": "Browse Modules",
+        "my_purchases": "My Purchases",
+        "section_account": "Account",
+        "settings": "Settings",
+        "section_resources": "Resources",
+        "faq": "FAQ",
+        "about": "About",
+        "showcase": "Showcase",
+        "screenshots": "Screenshots",
+        "section_support": "Support",
+        "services": "Services",
+        "contact": "Contact"
+    },
+    "header": {
+        "account_settings": "Account Settings",
+        "partner_status": "Partner Status",
+        "developer_portal": "Developer Portal",
+        "analytics": "Analytics",
+        "my_purchases": "My Purchases",
+        "logout": "Logout"
+    },
+    "donation": {
+        "text": "Help keep Green Meteor running! Your support enables us to continue providing free HumHub modules.",
+        "stripe": "Stripe Donate",
+        "paypal": "PayPal Donate",
+        "github": "Sponsor on GitHub"
+    },
+    "hero": {
+        "title": "HumHub Modules Marketplace",
+        "subtitle": "Discover premium modules to enhance your HumHub community. Trusted by communities worldwide.",
+        "cta": "Browse Modules"
+    },
+    "footer": {
+        "made_with": "Made with",
+        "by": "by Green Meteor",
+        "terms": "Terms of Service",
+        "privacy": "Privacy Policy"
+    },
+    "bazaar": {
+        "title": "Bazaar Marketplace Module",
+        "badge": "Recommended",
+        "desc": "Install Bazaar on your HumHub network to browse, install, and update Green Meteor modules directly from your admin panel — no manual downloading required.",
+        "note": "Speak another language? Help translate Bazaar and make it accessible to users worldwide.",
+        "get_free": "Get Bazaar Free",
+        "help_translate": "Help Translate"
+    }
+}

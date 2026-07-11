@@ -1,0 +1,52 @@
+{
+    "announcements": {
+        "heading": "最新のお知らせ",
+        "subtitle": "Green Meteorチームからの最新情報とリリース",
+        "read_more": "続きを読む"
+    },
+    "stats": {
+        "heading": "Green Meteorの実績",
+        "subtitle": "世界中のHumHubコミュニティに信頼されています",
+        "modules": "利用可能なモジュール",
+        "users": "登録ユーザー数",
+        "downloads": "モジュールダウンロード数",
+        "posts": "コミュニティ投稿数"
+    },
+    "featured": {
+        "heading": "おすすめモジュール",
+        "subtitle": "HumHubコミュニティを強化する厳選モジュール",
+        "browse_all": "すべてのモジュールを見る",
+        "badge_purchased": "購入済み",
+        "badge_subscribed": "購読中",
+        "badge_in_cart": "カート内",
+        "badge_free": "無料",
+        "badge_lifetime": "買い切り",
+        "badge_monthly": "月額",
+        "badge_yearly": "年額",
+        "badge_weekly": "週額",
+        "badge_daily": "日額",
+        "badge_subscription": "サブスクリプション",
+        "price_free": "無料",
+        "price_lifetime": "買い切り",
+        "btn_download": "ダウンロード",
+        "btn_in_cart": "カート内",
+        "btn_subscribe": "購読する",
+        "btn_buy_now": "今すぐ購入"
+    },
+    "cta": {
+        "eyebrow": "プロフェッショナルサービス",
+        "title": "コミュニティ向けに何か作ってほしいものはありますか？",
+        "body": "オーダーメイドのモジュール開発から、プラットフォームの構築・設定まで — 私たちのチームが要件を精査し、構築し、確実にお届けします。",
+        "get_quote": "見積もりを依頼",
+        "view_services": "すべてのサービスを見る",
+        "become_partner": "パートナーになる",
+        "service1_title": "カスタムモジュール開発",
+        "service1_desc": "PHP、Yii2、HumHubネイティブの規約に基づいたオーダーメイドのHumHubモジュールを、企画から導入まで一貫して開発します。",
+        "service2_title": "インストール・設定",
+        "service2_desc": "専門的なセットアップ、データベース最適化、セキュリティ強化、そしてHumHubプラットフォームの継続的な保守を行います。",
+        "feature1": "HumHubネイティブの規約",
+        "feature2": "PSR-12準拠のクリーンなPHP",
+        "feature3": "納品後のサポート",
+        "feature4": "固定範囲の料金体系"
+    }
+}

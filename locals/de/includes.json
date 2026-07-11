@@ -1,0 +1,52 @@
+{
+    "announcements": {
+        "heading": "Neueste Ankündigungen",
+        "subtitle": "Updates, Releases und Neuigkeiten vom Green-Meteor-Team",
+        "read_more": "Weiterlesen"
+    },
+    "stats": {
+        "heading": "Green Meteor in Zahlen",
+        "subtitle": "Vertraut von HumHub-Communities weltweit",
+        "modules": "Verfügbare Module",
+        "users": "Registrierte Nutzer",
+        "downloads": "Heruntergeladene Module",
+        "posts": "Community-Beiträge"
+    },
+    "featured": {
+        "heading": "Empfohlene Module",
+        "subtitle": "Ausgewählte Erweiterungen für deine HumHub-Community",
+        "browse_all": "Alle Module durchsuchen",
+        "badge_purchased": "Gekauft",
+        "badge_subscribed": "Abonniert",
+        "badge_in_cart": "Im Warenkorb",
+        "badge_free": "Kostenlos",
+        "badge_lifetime": "Einmalig",
+        "badge_monthly": "Monatlich",
+        "badge_yearly": "Jährlich",
+        "badge_weekly": "Wöchentlich",
+        "badge_daily": "Täglich",
+        "badge_subscription": "Abonnement",
+        "price_free": "Kostenlos",
+        "price_lifetime": "Einmalig",
+        "btn_download": "Herunterladen",
+        "btn_in_cart": "Im Warenkorb",
+        "btn_subscribe": "Abonnieren",
+        "btn_buy_now": "Jetzt kaufen"
+    },
+    "cta": {
+        "eyebrow": "Professionelle Dienstleistungen",
+        "title": "Brauchst du etwas Individuelles für deine Community?",
+        "body": "Von maßgeschneiderter Modulentwicklung bis zur kompletten Plattform-Einrichtung und Konfiguration — unser Team plant, entwickelt und liefert genau nach deinen Anforderungen.",
+        "get_quote": "Angebot einholen",
+        "view_services": "Alle Dienstleistungen ansehen",
+        "become_partner": "Partner werden",
+        "service1_title": "Individuelle Modulentwicklung",
+        "service1_desc": "Maßgeschneiderte HumHub-Module mit PHP, Yii2 und HumHub-nativen Konventionen — von der Konzeption bis zur Bereitstellung.",
+        "service2_title": "Installation & Konfiguration",
+        "service2_desc": "Fachkundige Einrichtung, Datenbankoptimierung, Sicherheitshärtung und laufende Wartung für deine HumHub-Plattform.",
+        "feature1": "HumHub-native Konventionen",
+        "feature2": "Sauberer PHP-Code nach PSR-12",
+        "feature3": "Support nach der Lieferung",
+        "feature4": "Festpreise mit klarem Umfang"
+    }
+}
