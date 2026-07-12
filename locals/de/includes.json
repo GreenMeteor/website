@@ -1,7 +1,7 @@
 {
     "announcements": {
         "heading": "Neueste Ankündigungen",
-        "subtitle": "Updates, Releases und Neuigkeiten vom Green-Meteor-Team",
+        "subtitle": "Updates, Veröffentlichungen und Neuigkeiten vom Green Meteor Team",
         "read_more": "Weiterlesen"
     },
     "stats": {
@@ -13,21 +13,21 @@
         "posts": "Community-Beiträge"
     },
     "featured": {
-        "heading": "Empfohlene Module",
-        "subtitle": "Ausgewählte Erweiterungen für deine HumHub-Community",
+        "heading": "Ausgewählte Module",
+        "subtitle": "Handverlesene Erweiterungen für deine HumHub-Community",
         "browse_all": "Alle Module durchsuchen",
         "badge_purchased": "Gekauft",
         "badge_subscribed": "Abonniert",
         "badge_in_cart": "Im Warenkorb",
         "badge_free": "Kostenlos",
-        "badge_lifetime": "Einmalig",
+        "badge_lifetime": "Lebenslang",
         "badge_monthly": "Monatlich",
         "badge_yearly": "Jährlich",
         "badge_weekly": "Wöchentlich",
         "badge_daily": "Täglich",
         "badge_subscription": "Abonnement",
         "price_free": "Kostenlos",
-        "price_lifetime": "Einmalig",
+        "price_lifetime": "Lebenslang",
         "btn_download": "Herunterladen",
         "btn_in_cart": "Im Warenkorb",
         "btn_subscribe": "Abonnieren",
@@ -36,17 +36,37 @@
     "cta": {
         "eyebrow": "Professionelle Dienstleistungen",
         "title": "Brauchst du etwas Individuelles für deine Community?",
-        "body": "Von maßgeschneiderter Modulentwicklung bis zur kompletten Plattform-Einrichtung und Konfiguration — unser Team plant, entwickelt und liefert genau nach deinen Anforderungen.",
-        "get_quote": "Angebot einholen",
-        "view_services": "Alle Dienstleistungen ansehen",
+        "body": "Von maßgeschneiderter Modulentwicklung bis zur kompletten Einrichtung und Konfiguration der Plattform — unser Team plant, entwickelt und liefert genau nach euren Anforderungen.",
+        "get_quote": "Angebot anfordern",
+        "view_services": "Alle Leistungen ansehen",
         "become_partner": "Partner werden",
         "service1_title": "Individuelle Modulentwicklung",
         "service1_desc": "Maßgeschneiderte HumHub-Module mit PHP, Yii2 und HumHub-nativen Konventionen — von der Konzeption bis zur Bereitstellung.",
         "service2_title": "Installation & Konfiguration",
-        "service2_desc": "Fachkundige Einrichtung, Datenbankoptimierung, Sicherheitshärtung und laufende Wartung für deine HumHub-Plattform.",
+        "service2_desc": "Fachkundige Einrichtung, Datenbankoptimierung, Sicherheitshärtung und laufende Wartung deiner HumHub-Plattform.",
         "feature1": "HumHub-native Konventionen",
-        "feature2": "Sauberer PHP-Code nach PSR-12",
+        "feature2": "Sauberes PHP nach PSR-12",
         "feature3": "Support nach der Lieferung",
-        "feature4": "Festpreise mit klarem Umfang"
+        "feature4": "Festpreise"
+    },
+    "reviews": {
+        "heading": "Das sagen unsere Nutzer",
+        "subtitle": "Vertraut von HumHub-Communities weltweit",
+        "partner_badge": "Partner",
+        "form_heading": "Bewertung abgeben",
+        "rating_label": "Deine Bewertung",
+        "review_label": "Deine Rezension",
+        "review_placeholder": "Teile deine Erfahrung mit Green Meteor…",
+        "chars_remaining": "Zeichen übrig",
+        "submit_button": "Bewertung absenden",
+        "success_message": "Vielen Dank! Deine Bewertung wurde übermittelt und erscheint nach der Freigabe.",
+        "error_invalid_form": "Ungültige Formularübermittlung. Bitte lade die Seite neu und versuche es erneut.",
+        "error_too_short": "Deine Bewertung muss mindestens 20 Zeichen umfassen.",
+        "error_too_long": "Deine Bewertung darf maximal 1000 Zeichen umfassen.",
+        "error_invalid_rating": "Bitte wähle eine gültige Sternebewertung (1–5).",
+        "error_generic": "Etwas ist schiefgelaufen. Bitte versuche es später erneut.",
+        "pending_message": "Deine Bewertung wurde übermittelt und wartet auf Freigabe. Vielen Dank!",
+        "sign_in_link": "Melde dich an,",
+        "login_nudge_text": "um deine Erfahrung mit Green Meteor zu teilen."
     }
 }
