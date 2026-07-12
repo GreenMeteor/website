@@ -1,7 +1,7 @@
 {
     "announcements": {
         "heading": "最新のお知らせ",
-        "subtitle": "Green Meteorチームからの最新情報とリリース",
+        "subtitle": "Green Meteorチームからのアップデート、リリース情報、ニュース",
         "read_more": "続きを読む"
     },
     "stats": {
@@ -13,11 +13,11 @@
         "posts": "コミュニティ投稿数"
     },
     "featured": {
-        "heading": "おすすめモジュール",
-        "subtitle": "HumHubコミュニティを強化する厳選モジュール",
+        "heading": "注目のモジュール",
+        "subtitle": "HumHubコミュニティを強化する厳選された拡張機能",
         "browse_all": "すべてのモジュールを見る",
         "badge_purchased": "購入済み",
-        "badge_subscribed": "購読中",
+        "badge_subscribed": "登録済み",
         "badge_in_cart": "カート内",
         "badge_free": "無料",
         "badge_lifetime": "買い切り",
@@ -29,24 +29,44 @@
         "price_free": "無料",
         "price_lifetime": "買い切り",
         "btn_download": "ダウンロード",
-        "btn_in_cart": "カート内",
-        "btn_subscribe": "購読する",
+        "btn_in_cart": "カート追加済み",
+        "btn_subscribe": "登録する",
         "btn_buy_now": "今すぐ購入"
     },
     "cta": {
         "eyebrow": "プロフェッショナルサービス",
-        "title": "コミュニティ向けに何か作ってほしいものはありますか？",
-        "body": "オーダーメイドのモジュール開発から、プラットフォームの構築・設定まで — 私たちのチームが要件を精査し、構築し、確実にお届けします。",
-        "get_quote": "見積もりを依頼",
+        "title": "コミュニティに必要な機能を開発しませんか？",
+        "body": "カスタムモジュール開発からプラットフォームの構築・設定まで、ご要望に合わせて設計・開発・納品いたします。",
+        "get_quote": "見積もりを依頼する",
         "view_services": "すべてのサービスを見る",
         "become_partner": "パートナーになる",
         "service1_title": "カスタムモジュール開発",
-        "service1_desc": "PHP、Yii2、HumHubネイティブの規約に基づいたオーダーメイドのHumHubモジュールを、企画から導入まで一貫して開発します。",
-        "service2_title": "インストール・設定",
-        "service2_desc": "専門的なセットアップ、データベース最適化、セキュリティ強化、そしてHumHubプラットフォームの継続的な保守を行います。",
+        "service1_desc": "PHP、Yii2、HumHubネイティブの規約に基づき、企画から導入まで対応するオーダーメイドのHumHubモジュール。",
+        "service2_title": "インストール＆設定",
+        "service2_desc": "専門的なセットアップ、データベース最適化、セキュリティ強化、HumHubプラットフォームの継続的なメンテナンス。",
         "feature1": "HumHubネイティブの規約",
         "feature2": "PSR-12準拠のクリーンなPHP",
         "feature3": "納品後のサポート",
-        "feature4": "固定範囲の料金体系"
+        "feature4": "固定料金制"
+    },
+    "reviews": {
+        "heading": "お客様の声",
+        "subtitle": "世界中のHumHubコミュニティに信頼されています",
+        "partner_badge": "パートナー",
+        "form_heading": "レビューを投稿する",
+        "rating_label": "評価",
+        "review_label": "レビュー内容",
+        "review_placeholder": "Green Meteorでの体験をお聞かせください…",
+        "chars_remaining": "文字残り",
+        "submit_button": "レビューを送信",
+        "success_message": "ありがとうございます！レビューは送信され、承認され次第表示されます。",
+        "error_invalid_form": "無効なフォーム送信です。ページを更新してもう一度お試しください。",
+        "error_too_short": "レビューは20文字以上で入力してください。",
+        "error_too_long": "レビューは1000文字以内で入力してください。",
+        "error_invalid_rating": "1〜5の有効な評価を選択してください。",
+        "error_generic": "エラーが発生しました。しばらくしてからもう一度お試しください。",
+        "pending_message": "レビューが送信され、承認をお待ちいただいています。ありがとうございます！",
+        "sign_in_link": "ログイン",
+        "login_nudge_text": "して、Green Meteorでの体験をシェアしましょう。"
     }
 }
