@@ -48,5 +48,25 @@
         "feature2": "PSR-12 clean PHP",
         "feature3": "Post-delivery support",
         "feature4": "Fixed-scope pricing"
+    },
+    "reviews": {
+        "heading": "What Our Users Say",
+        "subtitle": "Trusted by HumHub communities around the world",
+        "partner_badge": "Partner",
+        "form_heading": "Leave a Review",
+        "rating_label": "Your rating",
+        "review_label": "Your review",
+        "review_placeholder": "Share your experience with Green Meteor…",
+        "chars_remaining": "characters remaining",
+        "submit_button": "Submit Review",
+        "success_message": "Thank you! Your review has been submitted and will appear once approved.",
+        "error_invalid_form": "Invalid form submission. Please refresh and try again.",
+        "error_too_short": "Your review must be at least 20 characters.",
+        "error_too_long": "Your review must be 1000 characters or fewer.",
+        "error_invalid_rating": "Please select a valid star rating (1–5).",
+        "error_generic": "Something went wrong. Please try again later.",
+        "pending_message": "Your review has been submitted and is awaiting approval. Thank you!",
+        "sign_in_link": "Sign in",
+        "login_nudge_text": "to share your experience with Green Meteor."
     }
 }
