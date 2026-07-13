@@ -1,0 +1,57 @@
+{
+    "title": "",
+    "subtitle": "",
+    "empty": {
+        "title": "",
+        "description": "",
+        "browse": ""
+    },
+    "stats": {
+        "lifetime": "",
+        "active_subs": "",
+        "total_spent": ""
+    },
+    "access": {
+        "heading": "",
+        "monthly_sub": "",
+        "yearly_sub": "",
+        "weekly_sub": "",
+        "daily_sub": "",
+        "subscription_generic": "",
+        "lifetime": ""
+    },
+    "sub_status": {
+        "active": "",
+        "trial": "",
+        "past_due": "",
+        "unpaid": "",
+        "canceled": "",
+        "incomplete": "",
+        "canceling": ""
+    },
+    "version": {
+        "na": ""
+    },
+    "meta": {
+        "module_id": ""
+    },
+    "price": {
+        "subscription": ""
+    },
+    "btn": {
+        "download": "",
+        "inactive": "",
+        "manage": ""
+    },
+    "info": {
+        "lifetime_bold": "",
+        "lifetime_desc": "",
+        "sub_bold": "",
+        "sub_desc": "",
+        "contact_link": ""
+    },
+    "title_attr": {
+        "version_tooltip": "",
+        "inactive_sub": ""
+    }
+}

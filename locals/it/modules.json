@@ -1,0 +1,86 @@
+{
+    "auth": {
+        "login": "",
+        "signup": ""
+    },
+    "welcome": {
+        "back": "",
+        "subtitle": "",
+        "guest_title": "",
+        "guest_subtitle": ""
+    },
+    "section": {
+        "heading": ""
+    },
+    "search": {
+        "placeholder": ""
+    },
+    "tabs": {
+        "all": "",
+        "paid": "",
+        "free": "",
+        "my_access": "",
+        "soon": ""
+    },
+    "badge": {
+        "soon": "",
+        "free": "",
+        "lifetime": "",
+        "purchased": "",
+        "subscribed": "",
+        "in_cart": "",
+        "monthly": "",
+        "yearly": "",
+        "weekly": "",
+        "daily": "",
+        "subscription": ""
+    },
+    "price": {
+        "free": "",
+        "lifetime": ""
+    },
+    "btn": {
+        "download": "",
+        "in_cart": "",
+        "subscribe": "",
+        "buy_now": ""
+    },
+    "cart": {
+        "label": "",
+        "heading": "",
+        "total_label": "",
+        "checkout": "",
+        "continue_shopping": "",
+        "empty_title": "",
+        "empty_subtitle": ""
+    },
+    "checkout": {
+        "cart_purchase": ""
+    },
+    "modal": {
+        "title": "",
+        "intro": "",
+        "item1": "",
+        "item2": "",
+        "item3_prefix": "",
+        "item3_and": "",
+        "terms_link": "",
+        "privacy_link": "",
+        "accept_label": "",
+        "cancel": "",
+        "continue_payment": ""
+    },
+    "prompt": {
+        "login_to_cart": "",
+        "login_to_purchase": ""
+    },
+    "notify": {
+        "added_to_cart": "",
+        "add_failed": "",
+        "removed_from_cart": "",
+        "remove_failed": "",
+        "cart_empty": "",
+        "generic_error": "",
+        "checkout_error": ""
+    }
+}

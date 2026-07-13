@@ -1,0 +1,52 @@
+{
+    "announcements": {
+        "heading": "",
+        "subtitle": "",
+        "read_more": ""
+    },
+    "stats": {
+        "heading": "",
+        "subtitle": "",
+        "modules": "",
+        "users": "",
+        "downloads": "",
+        "posts": ""
+    },
+    "featured": {
+        "heading": "",
+        "subtitle": "",
+        "browse_all": "",
+        "badge_purchased": "",
+        "badge_subscribed": "",
+        "badge_in_cart": "",
+        "badge_free": "",
+        "badge_lifetime": "",
+        "badge_monthly": "",
+        "badge_yearly": "",
+        "badge_weekly": "",
+        "badge_daily": "",
+        "badge_subscription": "",
+        "price_free": "",
+        "price_lifetime": "",
+        "btn_download": "",
+        "btn_in_cart": "",
+        "btn_subscribe": "",
+        "btn_buy_now": ""
+    },
+    "cta": {
+        "eyebrow": "",
+        "title": "",
+        "body": "",
+        "get_quote": "",
+        "view_services": "",
+        "become_partner": "",
+        "service1_title": "",
+        "service1_desc": "",
+        "service2_title": "",
+        "service2_desc": "",
+        "feature1": "",
+        "feature2": "",
+        "feature3": "",
+        "feature4": ""
+    }
+}
