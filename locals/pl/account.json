@@ -1,0 +1,53 @@
+{
+    "title": "",
+    "subtitle": "",
+    "deletion_pending": {
+        "title": "",
+        "body_prefix": "",
+        "body_suffix": "",
+        "cancel_btn": ""
+    },
+    "profile": {
+        "heading": "",
+        "first_name": "",
+        "last_name": "",
+        "email": "",
+        "email_note": "",
+        "update_btn": ""
+    },
+    "password": {
+        "heading": "",
+        "current": "",
+        "new": "",
+        "new_note": "",
+        "confirm": "",
+        "change_btn": ""
+    },
+    "access": {
+        "heading": "",
+        "disabled_prefix": ""
+    },
+    "gdpr": {
+        "heading": "",
+        "download_heading": "",
+        "download_desc": "",
+        "download_btn": "",
+        "danger_heading": "",
+        "danger_warning_bold": "",
+        "danger_warning_text": "",
+        "danger_intro": "",
+        "danger_item1": "",
+        "danger_item2": "",
+        "danger_item3": "",
+        "danger_item4": "",
+        "danger_btn": ""
+    },
+    "modal": {
+        "title": "",
+        "warning": "",
+        "desc": "",
+        "password_label": "",
+        "confirm_btn": "",
+        "cancel_btn": ""
+    }
+}

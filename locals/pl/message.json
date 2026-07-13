@@ -1,0 +1,51 @@
+{
+    "nav": {
+        "section_main": "",
+        "home": "",
+        "browse_modules": "",
+        "my_purchases": "",
+        "section_account": "",
+        "settings": "",
+        "section_resources": "",
+        "faq": "",
+        "about": "",
+        "showcase": "",
+        "screenshots": "",
+        "section_support": "",
+        "services": "",
+        "contact": ""
+    },
+    "header": {
+        "account_settings": "",
+        "partner_status": "",
+        "developer_portal": "",
+        "analytics": "",
+        "my_purchases": "",
+        "logout": ""
+    },
+    "donation": {
+        "text": "",
+        "stripe": "",
+        "paypal": "",
+        "github": ""
+    },
+    "hero": {
+        "title": "",
+        "subtitle": "",
+        "cta": ""
+    },
+    "footer": {
+        "made_with": "",
+        "by": "",
+        "terms": "",
+        "privacy": ""
+    },
+    "bazaar": {
+        "title": "",
+        "badge": "",
+        "desc": "",
+        "note": "",
+        "get_free": "",
+        "help_translate": ""
+    }
+}
