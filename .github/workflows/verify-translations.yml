@@ -1,0 +1,38 @@
+name: Verify Translations
+
+"on":
+  push:
+    paths:
+      - 'locals/**/*.json'
+      - '**/*.php'
+      - 'scripts/verify-translations.js'
+      - '.github/workflows/verify-translations.yml'
+  pull_request:
+    paths:
+      - 'locals/**/*.json'
+      - '**/*.php'
+      - 'scripts/verify-translations.js'
+      - '.github/workflows/verify-translations.yml'
+  workflow_dispatch: {}
+
+jobs:
+  verify:
+    name: Verify OnigiriJS translation files
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Verify locals/**/*.json against OnigiriJS namespace + key usage
+        run: node scripts/verify-translations.js
+
+      # Uncomment to also fail the build on warnings (orphaned keys, extra
+      # locale-only keys, mismatched label files):
+      # - name: Verify (strict)
+      #   run: node scripts/verify-translations.js --strict
