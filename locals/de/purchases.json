@@ -1,0 +1,67 @@
+{
+    "title": "Meine Käufe",
+    "subtitle": "Zeigen Sie Ihre gekauften und abonnierten Module an und laden Sie sie herunter.",
+
+    "empty": {
+        "title": "Noch keine Käufe",
+        "description": "Sie haben noch keine Module gekauft. Entdecken Sie unsere Premium-HumHub-Module und erweitern Sie Ihre Community.",
+        "browse": "Module durchsuchen"
+    },
+
+    "stats": {
+        "lifetime": "Dauerhafte Käufe",
+        "active_subs": "Aktive Abonnements",
+        "total_spent": "Gesamtausgaben (Einmalkäufe)"
+    },
+
+    "access": {
+        "heading": "Modulzugriff",
+        "lifetime": "Dauerhaft",
+        "subscription_generic": "Abonnement",
+        "daily_sub": "Tägliches Abonnement",
+        "weekly_sub": "Wöchentliches Abonnement",
+        "monthly_sub": "Monatliches Abonnement",
+        "yearly_sub": "Jährliches Abonnement"
+    },
+
+    "version": {
+        "na": "Keine Version verfügbar"
+    },
+
+    "sub_status": {
+        "active": "Aktiv",
+        "trial": "Testphase",
+        "canceling": "Läuft zum Periodenende aus",
+        "past_due": "Überfällig",
+        "unpaid": "Unbezahlt",
+        "canceled": "Gekündigt",
+        "incomplete": "Unvollständig"
+    },
+
+    "meta": {
+        "module_id": "Modul-ID:"
+    },
+
+    "price": {
+        "subscription": "Abonnement"
+    },
+
+    "btn": {
+        "download": "Herunterladen",
+        "inactive": "Inaktiv",
+        "manage": "Verwalten"
+    },
+
+    "info": {
+        "lifetime_bold": "Dauerhafte Käufe",
+        "lifetime_desc": "gewähren dauerhaftes Downloadrecht.",
+        "sub_bold": "Abonnements",
+        "sub_desc": "erfordern einen aktiven Abrechnungszeitraum – Downloads sind vom Abonnementstatus abhängig. Benötigen Sie Hilfe?",
+        "contact_link": "Support kontaktieren"
+    },
+
+    "title_attr": {
+        "version_tooltip": "Aktuell verfügbare Version",
+        "inactive_sub": "Abonnement inaktiv"
+    }
+}
