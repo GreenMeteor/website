@@ -1,0 +1,86 @@
+{
+    "auth": {
+        "login": "Anmelden",
+        "signup": "Registrieren"
+    },
+    "welcome": {
+        "back": "Willkommen zurück,",
+        "subtitle": "Das passiert heute bei deinen Modulen",
+        "guest_title": "HumHub-Module durchsuchen",
+        "guest_subtitle": "Entdecke leistungsstarke Module für dein HumHub-Erlebnis"
+    },
+    "section": {
+        "heading": "HumHub-Module durchsuchen"
+    },
+    "search": {
+        "placeholder": "Module durchsuchen..."
+    },
+    "tabs": {
+        "all": "Alle Module",
+        "paid": "Kostenpflichtig",
+        "free": "Kostenlos",
+        "my_access": "Meine Zugänge",
+        "soon": "Demnächst"
+    },
+    "badge": {
+        "soon": "Demnächst",
+        "free": "Kostenlos",
+        "lifetime": "Einmalig",
+        "purchased": "Gekauft",
+        "subscribed": "Abonniert",
+        "in_cart": "Im Warenkorb",
+        "monthly": "Monatlich",
+        "yearly": "Jährlich",
+        "weekly": "Wöchentlich",
+        "daily": "Täglich",
+        "subscription": "Abonnement"
+    },
+    "price": {
+        "free": "Kostenlos",
+        "lifetime": "Einmalig"
+    },
+    "btn": {
+        "download": "Herunterladen",
+        "in_cart": "Im Warenkorb",
+        "subscribe": "Abonnieren",
+        "buy_now": "Jetzt kaufen"
+    },
+    "cart": {
+        "label": "Warenkorb",
+        "heading": "Warenkorb",
+        "total_label": "Gesamt:",
+        "checkout": "Zur Kasse",
+        "continue_shopping": "Weiter einkaufen",
+        "empty_title": "Dein Warenkorb ist leer",
+        "empty_subtitle": "Füge Module hinzu, um loszulegen!"
+    },
+    "checkout": {
+        "cart_purchase": "Warenkorb-Kauf"
+    },
+    "modal": {
+        "title": "Kauf bestätigen",
+        "intro": "Mit dem Fortfahren stimmst du zu:",
+        "item1": "Sofortigem Zugriff auf das Produkt zuzustimmen",
+        "item2": "Dass dein Widerrufsrecht mit dem Download erlischt",
+        "item3_prefix": "Unseren",
+        "item3_and": "und",
+        "terms_link": "Nutzungsbedingungen",
+        "privacy_link": "Datenschutzrichtlinie",
+        "accept_label": "Ich verstehe und akzeptiere diese Bedingungen",
+        "cancel": "Abbrechen",
+        "continue_payment": "Weiter zur Zahlung"
+    },
+    "prompt": {
+        "login_to_cart": "Du musst angemeldet sein, um Artikel zum Warenkorb hinzuzufügen. Jetzt anmelden?",
+        "login_to_purchase": "Du musst angemeldet sein, um Module zu kaufen. Jetzt anmelden?"
+    },
+    "notify": {
+        "added_to_cart": "Modul zum Warenkorb hinzugefügt!",
+        "add_failed": "Hinzufügen zum Warenkorb fehlgeschlagen",
+        "removed_from_cart": "Modul aus dem Warenkorb entfernt",
+        "remove_failed": "Entfernen aus dem Warenkorb fehlgeschlagen",
+        "cart_empty": "Dein Warenkorb ist leer",
+        "generic_error": "Ein Fehler ist aufgetreten",
+        "checkout_error": "Beim Bezahlvorgang ist ein Fehler aufgetreten. Bitte versuche es erneut."
+    }
+}
