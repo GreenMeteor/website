@@ -48,5 +48,25 @@
         "feature2": "",
         "feature3": "",
         "feature4": ""
+    },
+    "reviews": {
+        "heading": "",
+        "subtitle": "",
+        "partner_badge": "",
+        "form_heading": "",
+        "rating_label": "",
+        "review_label": "",
+        "review_placeholder": "",
+        "chars_remaining": "",
+        "submit_button": "",
+        "success_message": "",
+        "error_invalid_form": "",
+        "error_too_short": "",
+        "error_too_long": "",
+        "error_invalid_rating": "",
+        "error_generic": "",
+        "pending_message": "",
+        "sign_in_link": "",
+        "login_nudge_text": ""
     }
 }
