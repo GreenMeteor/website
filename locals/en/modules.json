@@ -1,0 +1,86 @@
+{
+    "auth": {
+        "login": "Login",
+        "signup": "Sign Up"
+    },
+    "welcome": {
+        "back": "Welcome back,",
+        "subtitle": "Here's what's happening with your modules today",
+        "guest_title": "Browse HumHub Modules",
+        "guest_subtitle": "Discover powerful modules to enhance your HumHub experience"
+    },
+    "section": {
+        "heading": "Browse HumHub Modules"
+    },
+    "search": {
+        "placeholder": "Search modules..."
+    },
+    "tabs": {
+        "all": "All Modules",
+        "paid": "Paid",
+        "free": "Free",
+        "my_access": "My Access",
+        "soon": "Coming Soon"
+    },
+    "badge": {
+        "soon": "Coming Soon",
+        "free": "Free",
+        "lifetime": "Lifetime",
+        "purchased": "Purchased",
+        "subscribed": "Subscribed",
+        "in_cart": "In Cart",
+        "monthly": "Monthly",
+        "yearly": "Yearly",
+        "weekly": "Weekly",
+        "daily": "Daily",
+        "subscription": "Subscription"
+    },
+    "price": {
+        "free": "Free",
+        "lifetime": "Lifetime"
+    },
+    "btn": {
+        "download": "Download",
+        "in_cart": "In Cart",
+        "subscribe": "Subscribe",
+        "buy_now": "Buy Now"
+    },
+    "cart": {
+        "label": "Cart",
+        "heading": "Shopping Cart",
+        "total_label": "Total:",
+        "checkout": "Proceed to Checkout",
+        "continue_shopping": "Continue Shopping",
+        "empty_title": "Your cart is empty",
+        "empty_subtitle": "Add some modules to get started!"
+    },
+    "checkout": {
+        "cart_purchase": "Cart Purchase"
+    },
+    "modal": {
+        "title": "Confirm Your Purchase",
+        "intro": "By proceeding, you:",
+        "item1": "Consent to immediate access to the product",
+        "item2": "Acknowledge that your right to withdraw is lost upon download",
+        "item3_prefix": "Agree to our",
+        "item3_and": "and",
+        "terms_link": "Terms",
+        "privacy_link": "Privacy Policy",
+        "accept_label": "I understand and accept these terms",
+        "cancel": "Cancel",
+        "continue_payment": "Continue to Payment"
+    },
+    "prompt": {
+        "login_to_cart": "You need to be logged in to add items to the cart. Login now?",
+        "login_to_purchase": "You need to be logged in to purchase modules. Login now?"
+    },
+    "notify": {
+        "added_to_cart": "Module added to cart!",
+        "add_failed": "Failed to add to cart",
+        "removed_from_cart": "Module removed from cart",
+        "remove_failed": "Failed to remove from cart",
+        "cart_empty": "Your cart is empty",
+        "generic_error": "An error occurred",
+        "checkout_error": "An error occurred during checkout. Please try again."
+    }
+}
