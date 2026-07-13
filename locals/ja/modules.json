@@ -1,0 +1,86 @@
+{
+    "auth": {
+        "login": "ログイン",
+        "signup": "新規登録"
+    },
+    "welcome": {
+        "back": "おかえりなさい、",
+        "subtitle": "今日のモジュールの状況はこちらです",
+        "guest_title": "HumHubモジュールを見る",
+        "guest_subtitle": "HumHub体験を強化する強力なモジュールを発見しましょう"
+    },
+    "section": {
+        "heading": "HumHubモジュールを見る"
+    },
+    "search": {
+        "placeholder": "モジュールを検索..."
+    },
+    "tabs": {
+        "all": "すべてのモジュール",
+        "paid": "有料",
+        "free": "無料",
+        "my_access": "利用可能なモジュール",
+        "soon": "近日公開"
+    },
+    "badge": {
+        "soon": "近日公開",
+        "free": "無料",
+        "lifetime": "買い切り",
+        "purchased": "購入済み",
+        "subscribed": "購読中",
+        "in_cart": "カート内",
+        "monthly": "月額",
+        "yearly": "年額",
+        "weekly": "週額",
+        "daily": "日額",
+        "subscription": "サブスクリプション"
+    },
+    "price": {
+        "free": "無料",
+        "lifetime": "買い切り"
+    },
+    "btn": {
+        "download": "ダウンロード",
+        "in_cart": "カート内",
+        "subscribe": "購読する",
+        "buy_now": "今すぐ購入"
+    },
+    "cart": {
+        "label": "カート",
+        "heading": "ショッピングカート",
+        "total_label": "合計:",
+        "checkout": "レジに進む",
+        "continue_shopping": "買い物を続ける",
+        "empty_title": "カートは空です",
+        "empty_subtitle": "モジュールを追加して始めましょう！"
+    },
+    "checkout": {
+        "cart_purchase": "カート購入"
+    },
+    "modal": {
+        "title": "購入内容の確認",
+        "intro": "手続きを進めることで、以下に同意したことになります：",
+        "item1": "商品への即時アクセスへの同意",
+        "item2": "ダウンロード後はクーリングオフ権が失われることの承諾",
+        "item3_prefix": "当社の",
+        "item3_and": "および",
+        "terms_link": "利用規約",
+        "privacy_link": "プライバシーポリシー",
+        "accept_label": "内容を理解し、これらの規約に同意します",
+        "cancel": "キャンセル",
+        "continue_payment": "支払いに進む"
+    },
+    "prompt": {
+        "login_to_cart": "カートに追加するにはログインが必要です。今すぐログインしますか？",
+        "login_to_purchase": "モジュールを購入するにはログインが必要です。今すぐログインしますか？"
+    },
+    "notify": {
+        "added_to_cart": "モジュールをカートに追加しました！",
+        "add_failed": "カートへの追加に失敗しました",
+        "removed_from_cart": "モジュールをカートから削除しました",
+        "remove_failed": "カートからの削除に失敗しました",
+        "cart_empty": "カートは空です",
+        "generic_error": "エラーが発生しました",
+        "checkout_error": "チェックアウト中にエラーが発生しました。もう一度お試しください。"
+    }
+}
