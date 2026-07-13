@@ -11,6 +11,9 @@
  *   3. Every locale contains the same translation keys as the base locale.
  *   4. (Warning only) Reports extra locale-only files.
  *   5. (Warning only) Reports extra locale-only keys.
+ *   6. (Info only) Reports translation coverage — how many keys in each
+ *      non-base locale/label are still blank ("") — useful for tracking
+ *      community translation progress without failing the build over it.
  *
  * Usage:
  *   node scripts/verify-translations.js
@@ -33,7 +36,15 @@ const REPO_ROOT = process.cwd();
 const LOCALS_DIR = path.join(REPO_ROOT, 'locals');
 
 const BASE_LOCALE = 'en';
-const LOCALES = ['en', 'ja', 'de'];
+
+// Full locale list: en/ja/de are fully translated; the rest are the
+// community translation kit locales (blank, awaiting contributions).
+const LOCALES = [
+    'en', 'ja', 'de',
+    'es', 'fr', 'it',
+    'ru', 'uk', 'pl',
+    'zh', 'ko', 'ar',
+];
 
 const STRICT = process.argv.includes('--strict');
 
@@ -224,6 +235,38 @@ for (const label of baseLabels) {
 }
 
 // -----------------------------------------------------------------------------
+// Translation coverage (info only — does not affect pass/fail)
+// -----------------------------------------------------------------------------
+
+const coverageRows = [];
+
+for (const locale of LOCALES) {
+    if (locale === BASE_LOCALE) {
+        continue;
+    }
+
+    for (const label of baseLabels) {
+        const localeTable = translations[locale][label] || {};
+        const keys = Object.keys(localeTable);
+
+        if (keys.length === 0) {
+            continue; // already reported as a missing file above
+        }
+
+        const filled = keys.filter(
+            key => localeTable[key] !== '' && localeTable[key] !== null
+        ).length;
+
+        coverageRows.push({
+            locale,
+            label,
+            filled,
+            total: keys.length,
+        });
+    }
+}
+
+// -----------------------------------------------------------------------------
 // Report
 // -----------------------------------------------------------------------------
 
@@ -234,6 +277,31 @@ log(`Base locale : ${BASE_LOCALE}`);
 log(`Locales     : ${LOCALES.join(', ')}`);
 log(`Label files : ${[...baseLabels].join(', ') || '(none)'}`);
 log('');
+
+if (coverageRows.length) {
+    log('Translation coverage (informational, does not affect pass/fail):');
+
+    const byLocale = coverageRows.reduce((acc, row) => {
+        (acc[row.locale] = acc[row.locale] || []).push(row);
+        return acc;
+    }, {});
+
+    for (const locale of Object.keys(byLocale)) {
+        const rows = byLocale[locale];
+        const totalFilled = rows.reduce((s, r) => s + r.filled, 0);
+        const totalKeys = rows.reduce((s, r) => s + r.total, 0);
+        const pct = totalKeys ? Math.round((totalFilled / totalKeys) * 100) : 0;
+
+        log(`  ${locale}: ${totalFilled}/${totalKeys} keys translated (${pct}%)`);
+
+        for (const row of rows) {
+            const rowPct = row.total ? Math.round((row.filled / row.total) * 100) : 0;
+            log(`    - ${row.label}.json: ${row.filled}/${row.total} (${rowPct}%)`);
+        }
+    }
+
+    log('');
+}
 
 if (errors.length === 0 && warnings.length === 0) {
 
