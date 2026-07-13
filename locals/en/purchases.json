@@ -1,0 +1,67 @@
+{
+    "title": "My Purchases",
+    "subtitle": "View and download your purchased and subscribed modules",
+
+    "empty": {
+        "title": "No purchases yet",
+        "description": "You haven't purchased any modules yet. Start exploring our collection of premium HumHub modules to enhance your community platform.",
+        "browse": "Browse Modules"
+    },
+
+    "stats": {
+        "lifetime": "Lifetime Purchases",
+        "active_subs": "Active Subscriptions",
+        "total_spent": "Total Spent (one-time)"
+    },
+
+    "access": {
+        "heading": "Module Access",
+        "lifetime": "Lifetime",
+        "subscription_generic": "Subscription",
+        "daily_sub": "Daily Subscription",
+        "weekly_sub": "Weekly Subscription",
+        "monthly_sub": "Monthly Subscription",
+        "yearly_sub": "Yearly Subscription"
+    },
+
+    "version": {
+        "na": "Version N/A"
+    },
+
+    "sub_status": {
+        "active": "Active",
+        "trial": "Trial",
+        "canceling": "Cancels at period end",
+        "past_due": "Past Due",
+        "unpaid": "Unpaid",
+        "canceled": "Cancelled",
+        "incomplete": "Incomplete"
+    },
+
+    "meta": {
+        "module_id": "Module ID:"
+    },
+
+    "price": {
+        "subscription": "Subscription"
+    },
+
+    "btn": {
+        "download": "Download",
+        "inactive": "Inactive",
+        "manage": "Manage"
+    },
+
+    "info": {
+        "lifetime_bold": "Lifetime purchases",
+        "lifetime_desc": "grant permanent download access.",
+        "sub_bold": "Subscriptions",
+        "sub_desc": "require an active billing cycle — downloads are gated on subscription status. Need help?",
+        "contact_link": "Contact support"
+    },
+
+    "title_attr": {
+        "version_tooltip": "Current available version",
+        "inactive_sub": "Subscription inactive"
+    }
+}

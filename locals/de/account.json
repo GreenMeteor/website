@@ -1,0 +1,60 @@
+{
+    "title": "Kontoeinstellungen",
+    "subtitle": "Verwalten Sie Ihr Profil, Ihre Sicherheit und Ihre Einstellungen.",
+
+    "deletion_pending": {
+        "title": "Kontolöschung ausstehend",
+        "body_prefix": "Ihr Konto wird am folgenden Datum gelöscht:",
+        "body_suffix": "Sie können diese Anfrage bis zu diesem Datum jederzeit widerrufen.",
+        "cancel_btn": "Löschanfrage abbrechen"
+    },
+
+    "profile": {
+        "heading": "Profilinformationen",
+        "first_name": "Vorname",
+        "last_name": "Nachname",
+        "email": "E-Mail-Adresse",
+        "email_note": "Die E-Mail-Adresse kann nicht geändert werden.",
+        "update_btn": "Profil aktualisieren"
+    },
+
+    "password": {
+        "heading": "Passwort ändern",
+        "current": "Aktuelles Passwort",
+        "new": "Neues Passwort",
+        "new_note": "Mindestens 8 Zeichen.",
+        "confirm": "Neues Passwort bestätigen",
+        "change_btn": "Passwort ändern"
+    },
+
+    "access": {
+        "heading": "Modulzugriff",
+        "disabled_prefix": "Vorübergehend deaktiviert. Bitte verwenden Sie"
+    },
+
+    "gdpr": {
+        "heading": "Datenschutz & Datenrechte (DSGVO)",
+        "download_heading": "Ihre Daten herunterladen",
+        "download_desc": "Sie haben das Recht, eine Kopie aller personenbezogenen Daten zu erhalten, die wir über Sie gespeichert haben, einschließlich Profilinformationen, Kaufverlauf, Abonnementdaten und Sitzungsprotokollen im maschinenlesbaren JSON-Format.",
+        "download_btn": "Meine Daten herunterladen",
+
+        "danger_heading": "Konto löschen",
+        "danger_warning_bold": "Warnung:",
+        "danger_warning_text": "Die Kontolöschung ist endgültig und kann nach der 30-tägigen Frist nicht rückgängig gemacht werden.",
+        "danger_intro": "Wenn Ihr Konto gelöscht wird:",
+        "danger_item1": "Ihr Profil und Ihre persönlichen Daten werden dauerhaft entfernt.",
+        "danger_item2": "Ihr Kaufverlauf wird aus rechtlichen und steuerlichen Gründen anonymisiert.",
+        "danger_item3": "Alle aktiven Abonnements werden gekündigt.",
+        "danger_item4": "Sie verlieren den Zugriff auf alle gekauften und abonnierten Module.",
+        "danger_btn": "Kontolöschung beantragen"
+    },
+
+    "modal": {
+        "title": "Kontolöschung bestätigen",
+        "warning": "Diese Aktion plant die endgültige Löschung Ihres Kontos.",
+        "desc": "Bitte geben Sie zur Bestätigung Ihr Passwort ein. Ihr Konto wird in 30 Tagen gelöscht. Während dieses Zeitraums können Sie die Anfrage jederzeit widerrufen.",
+        "password_label": "Passwort eingeben",
+        "confirm_btn": "Löschung bestätigen",
+        "cancel_btn": "Abbrechen"
+    }
+}

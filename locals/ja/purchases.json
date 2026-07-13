@@ -1,0 +1,67 @@
+{
+    "title": "購入済みモジュール",
+    "subtitle": "購入済みおよびサブスクリプション中のモジュールを表示・ダウンロードします",
+
+    "empty": {
+        "title": "まだ購入はありません",
+        "description": "まだモジュールを購入していません。プレミアム HumHub モジュールをご覧いただき、コミュニティをさらに充実させましょう。",
+        "browse": "モジュールを見る"
+    },
+
+    "stats": {
+        "lifetime": "購入済みモジュール",
+        "active_subs": "有効なサブスクリプション",
+        "total_spent": "合計支払額（一括購入）"
+    },
+
+    "access": {
+        "heading": "モジュールアクセス",
+        "lifetime": "永久ライセンス",
+        "subscription_generic": "サブスクリプション",
+        "daily_sub": "日次サブスクリプション",
+        "weekly_sub": "週次サブスクリプション",
+        "monthly_sub": "月額サブスクリプション",
+        "yearly_sub": "年額サブスクリプション"
+    },
+
+    "version": {
+        "na": "バージョンなし"
+    },
+
+    "sub_status": {
+        "active": "有効",
+        "trial": "トライアル",
+        "canceling": "期間終了時に解約予定",
+        "past_due": "支払い期限超過",
+        "unpaid": "未払い",
+        "canceled": "解約済み",
+        "incomplete": "未完了"
+    },
+
+    "meta": {
+        "module_id": "モジュールID:"
+    },
+
+    "price": {
+        "subscription": "サブスクリプション"
+    },
+
+    "btn": {
+        "download": "ダウンロード",
+        "inactive": "無効",
+        "manage": "管理"
+    },
+
+    "info": {
+        "lifetime_bold": "永久ライセンス",
+        "lifetime_desc": "は永続的なダウンロード権限を提供します。",
+        "sub_bold": "サブスクリプション",
+        "sub_desc": "は有効な課金期間中のみダウンロードできます。サポートが必要ですか？",
+        "contact_link": "サポートへお問い合わせ"
+    },
+
+    "title_attr": {
+        "version_tooltip": "現在利用可能なバージョン",
+        "inactive_sub": "サブスクリプションは無効です"
+    }
+}

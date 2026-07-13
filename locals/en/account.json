@@ -1,0 +1,60 @@
+{
+    "title": "Account Settings",
+    "subtitle": "Manage your profile, security, and preferences",
+
+    "deletion_pending": {
+        "title": "Account Deletion Pending",
+        "body_prefix": "Your account is scheduled for deletion on",
+        "body_suffix": "You can cancel this request at any time before that date.",
+        "cancel_btn": "Cancel Deletion Request"
+    },
+
+    "profile": {
+        "heading": "Profile Information",
+        "first_name": "First Name",
+        "last_name": "Last Name",
+        "email": "Email Address",
+        "email_note": "Email address cannot be changed.",
+        "update_btn": "Update Profile"
+    },
+
+    "password": {
+        "heading": "Change Password",
+        "current": "Current Password",
+        "new": "New Password",
+        "new_note": "Minimum 8 characters.",
+        "confirm": "Confirm New Password",
+        "change_btn": "Change Password"
+    },
+
+    "access": {
+        "heading": "Module Access",
+        "disabled_prefix": "Temporarily disabled. Please use"
+    },
+
+    "gdpr": {
+        "heading": "Privacy & Data Rights (GDPR)",
+        "download_heading": "Download Your Data",
+        "download_desc": "You have the right to receive a copy of all personal data we hold about you, including your profile information, purchase history, subscription data, and session logs in a machine-readable JSON format.",
+        "download_btn": "Download My Data",
+
+        "danger_heading": "Delete Account",
+        "danger_warning_bold": "Warning:",
+        "danger_warning_text": "Account deletion is permanent and cannot be undone after the 30-day grace period.",
+        "danger_intro": "When your account is deleted:",
+        "danger_item1": "Your profile and personal information will be permanently removed.",
+        "danger_item2": "Your purchase history will be anonymized for legal and tax records.",
+        "danger_item3": "All active subscriptions will be cancelled.",
+        "danger_item4": "You will lose access to all purchased and subscribed modules.",
+        "danger_btn": "Request Account Deletion"
+    },
+
+    "modal": {
+        "title": "Confirm Account Deletion",
+        "warning": "This action will schedule your account for permanent deletion.",
+        "desc": "Please enter your password to confirm. Your account will be deleted 30 days from today. You can cancel this request at any time during this period.",
+        "password_label": "Enter Your Password",
+        "confirm_btn": "Confirm Deletion",
+        "cancel_btn": "Cancel"
+    }
+}
